@@ -1,0 +1,9 @@
+﻿  main.c
+c:\workplace\c++\ch6\main.c(58): warning C4013: 'CH7_6' 未定義; 假設 extern 傳回整數
+  CH7_11.c
+c:\workplace\c++\ch6\ch7_11.c(11): warning C4098: 'CH7_11': 'void' 函式正在傳回值
+  CH7_10.c
+c:\workplace\c++\ch6\ch7_10.c(13): warning C4098: 'CH7_10': 'void' 函式正在傳回值
+  正在產生程式碼...
+  CH6.vcxproj -> C:\workplace\C++\x64\Debug\CH7.exe
+  CH6.vcxproj -> C:\workplace\C++\x64\Debug\CH7.pdb (Partial PDB)

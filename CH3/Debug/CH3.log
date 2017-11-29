@@ -1,0 +1,33 @@
+﻿  main.c
+  CH3_8.c
+c:\users\user\desktop\c++\ch3\ch3_8.c(23): warning C4098: 'CH3_8': 'void' 函式正在傳回值
+  CH3_7.c
+c:\users\user\desktop\c++\ch3\ch3_7.c(12): warning C4098: 'CH3_7': 'void' 函式正在傳回值
+  CH3_6.c
+c:\users\user\desktop\c++\ch3\ch3_6.c(17): warning C4098: 'CH3_6': 'void' 函式正在傳回值
+  CH3_5.c
+c:\users\user\desktop\c++\ch3\ch3_5.c(13): warning C4098: 'CH3_5': 'void' 函式正在傳回值
+  CH3_4.c
+c:\users\user\desktop\c++\ch3\ch3_4.c(27): warning C4098: 'CH3_4': 'void' 函式正在傳回值
+c:\users\user\desktop\c++\ch3\ch3_4.c(8): warning C4477: 'scanf' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+c:\users\user\desktop\c++\ch3\ch3_4.c(8): warning C4477: 'scanf' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 3 的類型為 'float *'
+c:\users\user\desktop\c++\ch3\ch3_4.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\users\user\desktop\c++\ch3\ch3_4.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+  CH3_3.c
+c:\users\user\desktop\c++\ch3\ch3_3.c(17): warning C4098: 'CH3_3': 'void' 函式正在傳回值
+  CH3_2.c
+c:\users\user\desktop\c++\ch3\ch3_2.c(12): warning C4098: 'CH3_2': 'void' 函式正在傳回值
+  CH3_1.c
+c:\users\user\desktop\c++\ch3\ch3_1.c(14): warning C4098: 'CH3_1': 'void' 函式正在傳回值
+  正在產生程式碼...
+  CH3.vcxproj -> C:\Users\USER\Desktop\C++\Debug\CH3.exe
+  CH3.vcxproj -> C:\Users\USER\Desktop\C++\Debug\CH3.pdb (Partial PDB)

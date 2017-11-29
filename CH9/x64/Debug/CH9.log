@@ -1,0 +1,3 @@
+﻿  main.c
+c:\workplace\c++\ch9\main.c(22): error C2085: 'main': 不在型式參數清單中
+c:\workplace\c++\ch9\main.c(22): error C2143: 語法錯誤: 遺漏 ';' (在 '{' 之前)

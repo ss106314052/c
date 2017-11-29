@@ -1,0 +1,4 @@
+﻿  CH4_4.c
+c:\users\user\desktop\c++\ch4\ch4_4.c(27): warning C4098: 'CH4_4': 'void' 函式正在傳回值
+  CH4.vcxproj -> C:\Users\USER\Desktop\C++\Debug\CH4.exe
+  CH4.vcxproj -> C:\Users\USER\Desktop\C++\Debug\CH4.pdb (Partial PDB)

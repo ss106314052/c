@@ -1,0 +1,9 @@
+﻿  practice2.c
+c:\workplace\c++\function\practice2.c(4): warning C4013: 'printf' 未定義; 假設 extern 傳回整數
+c:\workplace\c++\function\practice2.c(5): warning C4013: 'scanf' 未定義; 假設 extern 傳回整數
+  main.c
+  正在產生程式碼...
+main.obj : error LNK2019: 無法解析的外部符號 _function_6d 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _practice2 在函式 _main 中被參考
+main.obj : error LNK2019: 無法解析的外部符號 _practice4 在函式 _main 中被參考
+C:\Users\USER\Desktop\C++\Debug\function.exe : fatal error LNK1120: 3 個無法解析的外部符號

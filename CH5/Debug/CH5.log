@@ -1,0 +1,8 @@
+﻿  practice5_2.c
+  practice5_1.c
+c:\users\user\desktop\c++\ch5\practice5_1.c(12): warning C4098: 'practice5_1': 'void' 函式正在傳回值
+  main.c
+c:\users\user\desktop\c++\ch5\main.c(55): warning C4013: 'CH5_6' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...
+  CH5.vcxproj -> C:\Users\USER\Desktop\C++\Debug\CH5.exe
+  CH5.vcxproj -> C:\Users\USER\Desktop\C++\Debug\CH5.pdb (Partial PDB)

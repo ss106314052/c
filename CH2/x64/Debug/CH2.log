@@ -1,0 +1,53 @@
+﻿  main.c
+c:\workplace\c++\ch2\main.c(41): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  CH2_9.c
+c:\workplace\c++\ch2\ch2_9.c(27): warning C4098: 'CH2_9': 'void' 函式正在傳回值
+c:\workplace\c++\ch2\ch2_9.c(8): warning C4477: 'scanf' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'float *'
+c:\workplace\c++\ch2\ch2_9.c(8): warning C4477: 'scanf' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 3 的類型為 'float *'
+c:\workplace\c++\ch2\ch2_9.c(8): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+c:\workplace\c++\ch2\ch2_9.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(12): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(15): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(18): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'double'
+c:\workplace\c++\ch2\ch2_9.c(21): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'double'
+  CH2_8.c
+c:\workplace\c++\ch2\ch2_8.c(12): warning C4098: 'CH2_8': 'void' 函式正在傳回值
+c:\workplace\c++\ch2\ch2_8.c(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  CH2_7.c
+c:\workplace\c++\ch2\ch2_7.c(15): warning C4098: 'CH2_7': 'void' 函式正在傳回值
+c:\workplace\c++\ch2\ch2_7.c(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  CH2_6.c
+c:\workplace\c++\ch2\ch2_6.c(17): warning C4098: 'CH2_6': 'void' 函式正在傳回值
+c:\workplace\c++\ch2\ch2_6.c(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  CH2_5.c
+c:\workplace\c++\ch2\ch2_5.c(18): warning C4098: 'CH2_5': 'void' 函式正在傳回值
+c:\workplace\c++\ch2\ch2_5.c(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  CH2_4.c
+c:\workplace\c++\ch2\ch2_4.c(15): warning C4098: 'CH2_4': 'void' 函式正在傳回值
+c:\workplace\c++\ch2\ch2_4.c(7): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 請參閱 'scanf' 的宣告
+  CH2_3.c
+c:\workplace\c++\ch2\ch2_3.c(14): warning C4098: 'CH2_3': 'void' 函式正在傳回值
+  CH2_2.c
+c:\workplace\c++\ch2\ch2_2.c(9): warning C4098: 'CH2_2': 'void' 函式正在傳回值
+  CH2_12.c
+c:\workplace\c++\ch2\ch2_12.c(17): warning C4098: 'CH2_12': 'void' 函式正在傳回值
+  CH2_11.c
+c:\workplace\c++\ch2\ch2_11.c(14): warning C4098: 'CH2_11': 'void' 函式正在傳回值
+  CH2_10.c
+c:\workplace\c++\ch2\ch2_10.c(14): warning C4098: 'CH2_10': 'void' 函式正在傳回值
+  CH2_1.c
+c:\workplace\c++\ch2\ch2_1.c(9): warning C4098: 'CH2_1': 'void' 函式正在傳回值
+  正在產生程式碼...

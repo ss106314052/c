@@ -1,0 +1,14 @@
+﻿  tolower2.c
+c:\workplace\c++\ch10\tolower2.c(5): error C2082: 型式參數 'ch' 重複定義
+c:\workplace\c++\ch10\tolower2.c(10): warning C4013: '_getche' 未定義; 假設 extern 傳回整數
+c:\workplace\c++\ch10\tolower2.c(11): warning C4013: 'isupper' 未定義; 假設 extern 傳回整數
+c:\workplace\c++\ch10\tolower2.c(15): warning C4098: 'tolower2': 'void' 函式正在傳回值
+c:\workplace\c++\ch10\tolower2.c(19): warning C4013: 'islower' 未定義; 假設 extern 傳回整數
+c:\workplace\c++\ch10\tolower2.c(22): warning C4098: 'tolower2': 'void' 函式正在傳回值
+c:\workplace\c++\ch10\tolower2.c(28): warning C4098: 'tolower2': 'void' 函式正在傳回值
+  AaChange.c
+c:\workplace\c++\ch10\aachange.c(5): error C2082: 型式參數 'ch' 重複定義
+c:\workplace\c++\ch10\aachange.c(6): warning C4013: '_getche' 未定義; 假設 extern 傳回整數
+c:\workplace\c++\ch10\aachange.c(8): warning C4013: 'islower' 未定義; 假設 extern 傳回整數
+c:\workplace\c++\ch10\aachange.c(10): warning C4013: 'isupper' 未定義; 假設 extern 傳回整數
+  正在產生程式碼...

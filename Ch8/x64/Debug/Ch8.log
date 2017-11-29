@@ -1,0 +1,4 @@
+﻿  CH8_8.c
+c:\workplace\c++\ch8\ch8_8.c(16): warning C4098: 'CH8_8': 'void' 函式正在傳回值
+  Ch8.vcxproj -> C:\workplace\C++\x64\Debug\CH8.exe
+  Ch8.vcxproj -> C:\workplace\C++\x64\Debug\CH8.pdb (Partial PDB)

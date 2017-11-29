@@ -1,0 +1,6 @@
+﻿  hw4_1.c
+c:\users\user\desktop\c++\hw4\hw4_1.c(18): warning C4098: 'hw4_1': 'void' 函式正在傳回值
+c:\users\user\desktop\c++\hw4\hw4_1.c(17): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\user\desktop\c++\hw4\hw4_1.c(17): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+  hw4.vcxproj -> C:\Users\USER\Desktop\C++\Debug\hw4.exe
+  hw4.vcxproj -> C:\Users\USER\Desktop\C++\Debug\hw4.pdb (Partial PDB)
